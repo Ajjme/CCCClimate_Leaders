@@ -1,0 +1,21 @@
+,Electric,,,,,,,,,,,,,
+City,Solar MW Installed,Solar MW Installed Score,EV Charging Stations,EV Charging Stations cars per,EV Charging Stations Score,MCE Enrollment,MCE Municipals,MCE Population Enrollment Percent,MCE Score,Electrification -preliminary,Electrification Score,Cars,CivicSpark Score,Climate Emergency Score
+Antioch,"  51,504 ",  96.67 ,33,2025.364,69.46074131,no,,,0,,0,66837,75,0
+Brentwood,"  53,277 ",  100.00 ,64,629.438,90.50908474,no,,,0,,0,40284,0,0
+Clayton,"  7,265 ",  13.64 ,0,inf,,no,,,0,,0,9239,0,0
+Concord,"  38,923 ",  73.06 ,100,839.570,87.34062123,Yes,no,90.8,72.7,,0,83957,75,0
+Danville,"  31,250 ",  58.66 ,20,1616.000,75.63329312,yes,yes,89.7,97.425,,0,32320,0,0
+El Cerrito,"  4,791 ",  8.99 ,16,1039.250,84.32976478,Yes,yes,89.7,97.425,in progress,25,16628,75,100
+Hercules,"  8,066 ",  15.14 ,4,4179.250,36.98356454,no,,,0,in progress,25,16717,0,0
+Lafayette,"  14,429 ",  27.08 ,12,1584.833,76.10323683,yes,yes,89.5,97.375,in progess,0,19018,0,0
+Martinez,"  18,856 ",  35.39 ,51,543.216,91.8091724,Yes,yes,90.6,97.65,in progress,25,27704,50,100
+Moraga,"  5,486 ",  10.30 ,15,796.400,87.99155609,yes,no,89.6,72.4,,0,11946,0,0
+Oakley,"  25,454 ",  47.78 ,4,6632.000,0,no,,,0,,0,26528,0,0
+Orinda,"  10,071 ",  18.90 ,0,inf,,no,,,0,,0,15106,50,0
+Pinole,"  4,164 ",  7.82 ,3,4287.000,35.3588661,yes,no,91.1,72.775,,0,12861,50,0
+Pittsburg,"  23,248 ",  43.64 ,33,1234.606,81.38410644,yes,no,89.7,72.425,,0,40742,50,0
+Pleasant Hill,"  14,305 ",  26.85 ,48,520.250,92.15545838,yes,no,90.9,72.725,,0,24972,0,0
+Richmond,"  28,435 ",  53.37 ,126,495.000,92.53618818,Yes,yes,82,95.5,yes,100,62370,75,100
+San Pablo,"  3,862 ",  7.25 ,31,506.000,92.37032569,Yes,yes,86.9,96.725,,0,15686,75,0
+San Ramon,"  32,034 ",  60.13 ,275,182.291,97.25134335,Yes,no,90.1,72.525,,0,50130,0,0
+Walnut Creek,"  32,649 ",  61.28 ,193,256.850,96.12711488,Yes,yes,89.3,97.325,,0,49572,50,0
